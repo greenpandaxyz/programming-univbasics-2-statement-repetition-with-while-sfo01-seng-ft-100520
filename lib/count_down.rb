@@ -7,7 +7,7 @@
 # end
 
 count = 10
-while count > 0 do
-  puts "Happy New Year!"
+while count > 0 dO
   count -= 1
+    puts "Happy New Year!"
 end
